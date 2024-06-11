@@ -1,4 +1,4 @@
-# PlayGL Dotted Hero (in fragmenr shader)
+# PlayGL Dotted Hero (in fragment shader)
 
 ![Demo Screenshot](https://github.com/Guitouxx/000-hero/blob/main/static/screenshot.png?raw=true)
 
