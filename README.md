@@ -1,6 +1,6 @@
 # PlayGL Dotted Hero (in fragment shader)
 
-### [Live Demo](https://playgl-000-hero.vercel.app)
+### [Live Demo](https://playgl-000-hero.netlify.app/)
 
 ![Demo Screenshot](https://github.com/Guitouxx/000-hero/blob/main/static/screenshot.png?raw=true)
 
